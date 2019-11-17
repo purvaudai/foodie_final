@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foodilicious</string>
+    <string name="google_maps_api">AIzaSyBFWl8wkgIdOWqW8UcdHHcqT_R5DqkQkxw</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_restaurant">Map</string>
+    <string name="missed_ingredient_list">Missing Ingredients:</string>
+</resources>
